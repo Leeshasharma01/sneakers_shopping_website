@@ -1,2 +1,2 @@
 # photography_website
-This website is about sneakers shopping, ypu can search here for your favourite brands and can choose colour of your choice and then can pay online for the same by filling your account details.
+This website is about sneaker shopping, you can search here for your favourite brands, choose the colour of your choice and then pay online for the same by filling your account details.
